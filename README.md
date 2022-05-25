@@ -1,6 +1,6 @@
 # Hacker Rank Solutions
 
-This jupyter notebook will include all my hackerrank solutions.
+This jupyter notebook will include all my hackerrank solutions with Python.
 The results will be added day by day since they will be solved.
 
 When I couldn't find the problem solution, I have been checking the discussion part at Hacker Rank, 
